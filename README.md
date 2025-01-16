@@ -9,3 +9,5 @@
 - 若出现未知错误可考虑前往[这里](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/?form=MA13LH#downloads)下载对应版本（对于大多数电脑选择stable_x86）的msedgedriver.exe，解压后将替换此文件夹内同名exe文件
   
 - [原理参考](https://www.52pojie.cn/thread-1470976-1-1.html)，本项目仅对其进行封装
+
+- 下载的乐谱并未移除水印以避免学习之外的用途
