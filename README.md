@@ -4,7 +4,7 @@
 
 - 输入空行指在最后一个链接粘贴完后连敲两次enter键
 
-- 本程序下载部分由edge_webdriver驱动，需确保edge已在电脑上安装，并确保edge_webdriver与edge版本对应
+- 本程序下载部分由edge_webdriver驱动，需确保edge已在电脑上安装，并确保edge_webdriver与edge版本对应，且edge_webdriver与py或exe版本的下载器在同一目录下（你需要下载两个文件）
 
 - 若出现未知错误可考虑前往https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/?form=MA13LH#downloads下载对应版本（对于大多数电脑选择stable_x86）的msedgedriver.exe，解压后将替换此文件夹内同名exe文件
   
